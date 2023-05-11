@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+//hi
 
 struct Randomizer{
     int a;
@@ -98,6 +98,6 @@ int main(){
     cout<<"\n";
     cout<<(a1.isEqual(a3)?"Y":"N");
     cout<<"\n";
-
+    cout<<"hihih";
     return 0;
 }
